@@ -34,7 +34,7 @@ let tags = {
 const defaultMenu = {
   before: `
 
-🪀hello there %name, how can i help you?
+🪀hello there \(ϋ)/♩ %name, how can the legendary Kíñgsléy😎 help you?
 
 🪵 Left: *%limit Limit*
 🎗️ Role: *%role*
@@ -43,7 +43,7 @@ const defaultMenu = {
 
 🀄Prefix: *%p*
 📅 Date: *%week, %date*
-💠 Github: github.com/dark-worf/test114
+💠 Github: github.com/ife250/test114
 
 👇🏻 All usable commands are listed below 
 
